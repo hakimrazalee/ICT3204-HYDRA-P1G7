@@ -1,0 +1,1931 @@
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348516 
+
+No anomalies detected - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348518 
+
+No anomalies detected - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348520 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348522 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348524 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.920 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348526 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.919 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348510 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.919 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348512 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.919 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348514 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.889 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348504 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.889 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348506 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.889 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348508 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348484 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348486 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348488 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348490 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348492 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348494 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348496 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348498 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348500 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.888 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348502 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348466 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348468 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348470 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348472 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348474 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348476 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348478 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348480 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.887 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348482 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348446 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348448 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348450 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348452 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348454 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348456 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348458 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348460 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348462 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.886 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348464 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348428 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348430 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348432 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348434 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348436 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348438 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348440 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348442 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.885 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348444 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 172.18.1.39200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348412 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348414 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348416 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348418 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348420 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348422 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348424 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.884 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348426 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.861 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348410 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.348406 192.168.10.29200 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.860 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348408 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.859 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.858 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.857 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.856 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.840 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.839 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.838 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.837 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.836 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.835 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.835 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.835 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.835 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.835 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.834 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.833 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.832 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.832 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.832 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.832 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.831 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.808 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.807 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.806 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.805 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.804 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.803 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357344 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.786 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.786 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.785 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.785 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.785 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.784 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.784 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.783 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357340 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.783 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357342 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.782 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357336 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.782 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357336 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.781 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.781 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357340 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.781 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357340 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.780 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357340 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.780 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.780 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357340 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.780 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357336 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.779 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.779 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.779 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357336 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.779 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357336 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.779 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357338 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.778 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.778 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.778 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.778 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.778 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.777 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.777 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.777 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.777 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.777 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.776 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.776 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357334 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.776 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.776 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.776 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.335552 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.775 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.335552 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.774 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.774 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.774 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.774 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.774 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.773 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.759 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.759 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.759 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.758 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.758 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.757 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.757 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.757 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.757 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.757 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.756 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.756 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.756 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.756 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.756 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.755 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.754 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.754 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.754 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.754 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.754 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.753 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.748 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.748 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.747 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.747 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.747 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.745 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.745 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.745 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.743 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.743 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.743 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.742 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.742 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.741 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.741 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.741 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.740 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.740 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.740 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.740 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.739 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.739 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.729 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.352281 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.729 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.729 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.728 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.728 11000041 NMAP Scan Attempted Information Leak TCP 10.0.0.352280 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.728 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.352280 192.168.10.28080 
+
+No anomalies detected - Oct 25 2022 @ 234617.728 11000041 NMAP Scan Attempted Information Leak TCP 10.0.0.352281 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.724 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.724 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.724 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.723 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.723 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.723 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.722 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.722 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.722 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.722 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.722 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.721 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.721 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.721 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.721 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.721 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.720 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.720 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.720 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.719 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.719 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.714 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.713 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.713 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.712 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.712 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.711 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.711 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.710 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.710 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.710 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.709 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.708 0.472997685 SCAN FIN Attempted Information Leak TCP 10.0.0.343821 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.708 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.708 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.707 0.472997685 SCAN FIN Attempted Information Leak TCP 10.0.0.343820 192.168.10.28080 
+
+!! Anomalies Detected >> Scan (Anomaly) - Oct 25 2022 @ 234617.707 11000031 NMAP FIN Scan Attempted Information Leak TCP 10.0.0.343821 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.707 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.343821 192.168.10.28080 
+
+No anomalies detected - Oct 25 2022 @ 234617.706 11000031 NMAP FIN Scan Attempted Information Leak TCP 10.0.0.343820 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.706 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.343820 192.168.10.28080 
+
+No anomalies detected - Oct 25 2022 @ 234617.705 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.705 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.705 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.671 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.670 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.669 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> nmap (Anomaly) - Oct 25 2022 @ 234617.668 0.894525463 SCAN nmap XMAS Attempted Information Leak TCP 10.0.0.347243 192.168.10.28080 
+
+No anomalies detected - Oct 25 2022 @ 234617.668 11000021 NMAP XMAS Tree Scan Attempted Information Leak TCP 10.0.0.347244 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.347244 192.168.10.28080 
+
+!! Anomalies Detected >> nmap (Anomaly) - Oct 25 2022 @ 234617.668 0.894525463 SCAN nmap XMAS Attempted Information Leak TCP 10.0.0.347244 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.668 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+No anomalies detected - Oct 25 2022 @ 234617.667 11000021 NMAP XMAS Tree Scan Attempted Information Leak TCP 10.0.0.347243 192.168.10.28080 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.667 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.347243 192.168.10.28080 
+
+No anomalies detected - Oct 25 2022 @ 234617.666 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.666 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.666 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.666 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.665 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.665 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.641 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357306 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357306 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.357306 192.168.10.28080 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.640 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.639 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.638 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.637 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.636 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.616 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.616 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.615 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.614 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.613 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.612 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.611 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.610 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.609 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.609 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.609 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.609 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.609 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.608 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.607 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.587 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.586 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.585 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.584 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.583 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.582 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.581 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.580 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.580 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.580 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.556 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.556 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.556 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.556 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.555 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.554 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.553 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.552 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.551 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.550 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.549 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.549 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.549 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.526 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.525 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.524 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.523 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.522 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.521 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.502 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.501 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.501 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.501 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.501 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.501 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.500 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.499 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.498 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.497 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.497 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.497 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.497 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.497 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.496 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.495 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.494 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.494 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.494 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.493 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.473 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.472 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.471 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.470 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.469 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.468 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.468 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.468 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.468 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.449 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.449 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.448 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.447 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.446 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.445 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.444 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.444 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.444 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.444 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.444 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245910 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245910 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245910 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.443 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245910 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.442 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.441 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.441 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.441 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.421 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257894 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257894 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257894 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257894 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.420 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.419 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257894 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.418 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.417 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.38000 192.168.10.257892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.416 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.416 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.416 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.416 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.416 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.415 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+No anomalies detected - Oct 25 2022 @ 234617.414 0.387569444 ATTACK - RESPONSES i d check returned root Potentially Bad Traffic TCP 192.168.10.245898 10.0.0.34444 
+
+No anomalies detected - Oct 25 2022 @ 234617.414 1.348726852 ATTACK - RESPONSES i d check returned userid Potentially Bad Traffic TCP 192.168.10.245898 10.0.0.34444 
+
+!! Anomalies Detected >> NMAP (Anomaly), TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+No anomalies detected - Oct 25 2022 @ 234617.414 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245900 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245900 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245900 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245900 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.413 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.397 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.396 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.395 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.394 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245898 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.393 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.392 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.371 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.371 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.371 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.371 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.371 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.370 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.370 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.370 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.370 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.370 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.369 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.369 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.369 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.369 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.369 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.368 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.367 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245892 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.366 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.365 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.365 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.365 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.365 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.365 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.364 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.363 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.363 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.362 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.362 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.362 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.361 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 10.0.0.34444 192.168.10.245888 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.339 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
+
+!! Anomalies Detected >> TCP (Anomaly), Scan (Anomaly) - Oct 25 2022 @ 234617.338 11000011 NMAP TCP Scan Attempted Information Leak TCP 192.168.10.29200 192.168.10.348406 
