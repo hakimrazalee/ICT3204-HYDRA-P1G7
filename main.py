@@ -66,6 +66,7 @@ def predict(outputpath, modelpath, inputpath):
 
 
 def printResults(resultpath, wordspath, tagspath, conll_result):
+    finalList = []
     f = open(resultpath, "r")
     text = f.read()
     words = re.compile("words(.*)$").search(text).group(1)
@@ -109,9 +110,18 @@ def printResults(resultpath, wordspath, tagspath, conll_result):
     tagList.index = tagList.index + 1
     tagList = tagList.sort_index()
 
+    # To break each row in a newline
+    for list in tagList.values:
+        # '// -X- I-O O' denotes the end of each row
+        # Replace with an '!' to prevent model confusion
+        if list[0] == "//":
+            finalList.append("!")
+        else:
+            finalList.append(list)
+            
     # Saving the new file as .conll format
-    tagList.to_csv(
-        conll_result, header=None, index=None, sep=' ', mode='w')
+    (pd.DataFrame(finalList)).to_csv(
+    conll_result, header=None, index=None, sep=' ', mode='w')
 
     with open(outputpath, 'r') as file:
         filedata = file.read()
