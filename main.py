@@ -28,8 +28,8 @@ def logtosentence(inputpath, outputpath):
 
     for i, line in enumerate(source.values):
         s = line
-        # check if source is not empty
-        if s.all():
+        # check if source is not fully empty
+        if s.any():
             # strip() formats the whitespaces at the start and end of the string
             # replace() finds \n in the middle of the string to be replaced
             for row in s:
