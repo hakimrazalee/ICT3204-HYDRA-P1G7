@@ -1,6 +1,9 @@
 # ICT3204 P1G7 HYDRA Tool
 
-## The repository contains the models used for the coursework 2 submission.
+## The repository contains the models used for the coursework 2 submissions.
+
+To run the code in Google Colab: https://colab.research.google.com/drive/1yTXhv2e0OFhEcfDiHmRqag0PbQyNgA6x?usp=sharing
+
 Metrics Comparison:
 SVM Prediction Results:
 - Precision: 0.278
