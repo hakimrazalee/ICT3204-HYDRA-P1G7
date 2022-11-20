@@ -1,5 +1,4 @@
 import csv
-
 import dash_cytoscape as cyto
 from dash import html, dcc, dash_table
 import dash_bootstrap_components as dbc
@@ -24,14 +23,9 @@ def train(configpath, serialpath):
 
 
 def logtosentence(inputpath, outputpath):
-    import pandas as pd
-    import numpy as np
-    import json
-
     sentence = ""
     source = pd.read_csv(inputpath, on_bad_lines='skip', engine='python')
 
-    # !!ensure that the heading in the csv for the data to be formatted is "Raw Data"!!
     for i, line in enumerate(source.values):
         s = line
         # check if source is not empty
@@ -82,7 +76,6 @@ def printResults(resultpath, wordspath, tagspath, conll_result):
     t = open(tagspath, "w")
     t.write(listTags[1:])
     t.close()
-    # !cat tags.txt
 
     newf = "-X- I-O "
     filepath = tagspath
@@ -159,7 +152,7 @@ def convert(conll_result, final_output):
                     anomalies_dict["Label"].append(s[3][2:])
                 sentence = sentence + s[0] + " "
             elif len(s) == 1:
-                # if len(s) == 1 means its the end of the line
+                # if len(s) == 1 means its the end of the line ('!')
                 # check if no label means no anomalies were detected
                 if not len(anomalies_dict["Label"]):
                     sentence = "No anomalies detected - " + sentence
@@ -176,7 +169,6 @@ def convert(conll_result, final_output):
                 anomalies_dict["Label"].clear()
                 anomalies_dict["Word"].clear()
         except:
-            # print("Unable to print current word: ", s , ". Skipping to the next word..")
             continue
 
     with open(final_output, 'w', encoding='utf-8') as f:
@@ -190,17 +182,18 @@ def kgraph(conll,log):
     tag = ["-"]
     str_list = []
     for line in f1:
-        if line.split()[2] != 'O':
-            if line.split()[3] == "U-Anomaly":
-                if str_list:
-                    if str_list[-1] not in anomalies:
-                        anomalies.append(str_list[-1])
-                    else:
-                        tag.pop()
-                        order.pop()
-                str_list.append(line.split()[0])
-                order.append(str(str_list.index(line.split()[0])))
-                tag.append(line.split()[3][2:])
+        if '!' not in line:
+            if line.split()[2] != 'O':
+                if line.split()[3] == "U-Anomaly":
+                    if str_list:
+                        if str_list[-1] not in anomalies:
+                            anomalies.append(str_list[-1])
+                        else:
+                            tag.pop()
+                            order.pop()
+                    str_list.append(line.split()[0])
+                    order.append(str(str_list.index(line.split()[0])))
+                    tag.append(line.split()[3][2:])
     anomalies.append(str_list[-1])
     df = pd.read_csv(log)
     nodes = [
@@ -293,10 +286,10 @@ serialpath = "./models"
 outputpath = "./preprocessing/preparedlogs/input.txt"
 finalpath = "final_output.txt"
 
-# train(configpath, serialpath)
-# logtosentence(inputpath, outputpath)
-# predict(resultpath, modelpath, outputpath)
-# printResults(resultpath, wordspath, tagspath, conll_result)
-# convert(conll_result, finalpath)
+train(configpath, serialpath)
+logtosentence(inputpath, outputpath)
+predict(resultpath, modelpath, outputpath)
+printResults(resultpath, wordspath, tagspath, conll_result)
+convert(conll_result, finalpath)
 kgraph(conll_result, inputpath)
-#
+
